@@ -62,5 +62,5 @@ The beauty of this project is its simplicity — no backend, no API keys, and no
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-to-speech-converter.git
+   git clone https://github.com/khadija11/text-to-speech-converter.git
 
